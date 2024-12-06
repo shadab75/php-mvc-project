@@ -1,0 +1,16 @@
+{
+  "name": "shadab75/php-mvc",
+  "authors": [
+    {
+      "name": "hossein shadabfar",
+      "email": "shadabfar75@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    },
+    "files": ["app/helper.php"]
+  },
+  "require": {}
+}
